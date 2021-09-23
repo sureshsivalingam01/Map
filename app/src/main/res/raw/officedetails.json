@@ -1,0 +1,101 @@
+{
+  "OfficeDetails": [
+  {
+   "office_name": "Rifluxyss Softwares PVT LTD",
+   "office_address_1": "Five Furlong Rd, Maduvinkarai, Guindy",
+   "office_address_2": "Chennai, Tamil Nadu 600032",
+   "office_phone": "P: 044 2255 3380",
+   "office_fax": "F: (044) 2770 2112",
+   "office_email": "",
+   "office_website": "www.rifluxyss.com",
+   "office_facebook": "",
+   "Latitute": "12.9998531",
+   "Longitute": "80.2119642"
+  },
+  {
+   "office_name": "Phoenix Marketcity",
+   "office_address_1": "142, Velachery Main Rd, Indira Gandhi Nagar",
+   "office_address_2": "Velachery, Chennai, Tamil Nadu 600042",
+   "office_phone": "P: 044 6134 3008",
+   "office_fax": "",
+   "office_email": "",
+   "office_website": "https://www.phoenixmarketcity.com/chennai",
+   "office_facebook": "",
+   "Latitute": "12.990511",
+   "Longitute": "80.2147877"
+  },
+  {
+   "office_name": "Forum Vijaya Mall",
+   "office_address_1": "183, Great Southern Trunk Rd, Arcot Rd",
+   "office_address_2": "Vadapalani, Chennai, Tamil Nadu 600026",
+   "office_phone": "P: 044 4904 9000",
+   "office_fax": "",
+   "office_email": "",
+   "office_website": "",
+   "office_facebook": "The Forum Vijaya Mall",
+   "Latitute": "13.0498937",
+   "Longitute": "80.2095018"
+  },
+  {
+   "office_name": "VR Chennai",
+   "office_address_1": "Jawaharlal Nehru Rd, Thirumangalam, Anna Nagar",
+   "office_address_2": "Chennai, Tamil Nadu 600040",
+   "office_phone": "P: 044 6670 5555",
+   "office_fax": "",
+   "office_email": "",
+   "office_website": "www.vrchennai.com",
+   "office_facebook": "",
+   "Latitute": "13.0805465",
+   "Longitute": "80.197132"
+  },
+  {
+   "office_name": "Ampa Skywalk",
+   "office_address_1": "No:1, Nelson Manickam Road, 627, Poonamalee High Road",
+   "office_address_2": "Aminjikarai, Chennai, Tamil Nadu 600029",
+   "office_phone": "P: 044 3024 9494",
+   "office_fax": "",
+   "office_email": "",
+   "office_website": "www.ampaskywalk.com",
+   "office_facebook": "",
+   "Latitute": "13.0734711",
+   "Longitute": "80.2214432"
+  },
+  {
+   "office_name": "Spencer Plaza",
+   "office_address_1": "768-769, Anna Salai",
+   "office_address_2": " Chennai, Tamil Nadu 600002",
+   "office_phone": "P: 044 2849 1001",
+   "office_fax": "F: (044) 7700 2121",
+   "office_email": "",
+   "office_website": "www.spencerplaza.co.in",
+   "office_facebook": "",
+   "Latitute": "13.0615102",
+   "Longitute": "80.2614606"
+  },
+  {
+   "office_name": "Express Avenue",
+   "office_address_1": "Pattullos Rd, Express Estate, Thousand Lights",
+   "office_address_2": "Chennai, Tamil Nadu 600002",
+   "office_phone": "P: 044 2846 4646",
+   "office_fax": "",
+   "office_email": "",
+   "office_website": "www.expressavenue.in",
+   "office_facebook": "",
+   "Latitute": "13.0584546",
+   "Longitute": "80.2641844"
+  },
+  {
+   "office_name": "Chandra Metro Mall",
+   "office_address_1": "262, Arcot Rd, Rajeswari Colony, Virugambakkam",
+   "office_address_2": "Chennai, Tamil Nadu 600092",
+   "office_phone": "P: 097899 37575",
+   "office_fax": "F: (044) 2088 3301",
+   "office_email": "",
+   "office_website": "www.chandrabuilders.in",
+   "office_facebook": "",
+   "Latitute": "13.0470824",
+   "Longitute": "80.1903044"
+  }
+ ]
+}
+

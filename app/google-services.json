@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785405474166",
+    "project_id": "maptask-eb85f",
+    "storage_bucket": "maptask-eb85f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785405474166:android:2d94cc54b73866e727b657",
+        "android_client_info": {
+          "package_name": "com.mrright.map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785405474166-ngeu9hd6jf7a4jnim2rdkgeg1vrm0m8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB026b4a2ZZHnyE_034N0SfY7tbK6cyEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785405474166-ngeu9hd6jf7a4jnim2rdkgeg1vrm0m8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
