@@ -127,7 +127,7 @@ class OfficeAdapter(
 class DetailsUtil : DiffUtil.ItemCallback<OfficeDetail>() {
 
     override fun areItemsTheSame(oldItem: OfficeDetail, newItem: OfficeDetail): Boolean {
-        return oldItem.officeEmail == newItem.officeEmail
+        return oldItem.officePhone == newItem.officePhone
     }
 
     override fun areContentsTheSame(oldItem: OfficeDetail, newItem: OfficeDetail): Boolean {

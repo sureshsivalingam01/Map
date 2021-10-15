@@ -44,15 +44,15 @@ class MapsActivity : AppCompatActivity() {
     }
 
     private fun observeData() {
-        viewModel.officeDetails.observe(this) {
-            if (!it.isNullOrEmpty()) {
-                officeAdapter.submitList(it)
+        viewModel.officeDetails.observe(this) { list ->
+            if (!list.isNullOrEmpty()) {
+                officeAdapter.submitList(list)
                 val markers = mutableMapOf<String, Marker?>()
                 val latLngBounds = LatLngBounds.builder()
 
                 val callback = OnMapReadyCallback { map ->
 
-                    it.forEachIndexed { i, it ->
+                    list.forEachIndexed { i, it ->
 
                         if (!it.latitute.isNullOrBlank() && !it.longitute.isNullOrBlank()) {
                             val latLng = LatLng(it.latitute.toDouble(), it.longitute.toDouble())
